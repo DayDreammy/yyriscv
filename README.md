@@ -21,31 +21,31 @@ UART module | passed simulation independently
 
 This CPU project has a five stage pipeline with data forwarding.
 In the picture below, red paths show stall control flow, while orange ones show data forwarding path.
-![cpu-pipeline-graph](README.assets\structure-graph-16408720944601.jpg)
+![cpu-pipeline-graph](README.assets/structure-graph-16408720944601.jpg)
 
 #### Analysis
 
 **load stall** 
 
-![load](README.assets\load-16408730249726.png)
+![load](README.assets/load-16408730249726.png)
 
 **branch stall** 
 
-![branch](README.assets\branch-16408730720857.png)
+![branch](README.assets/branch-16408730720857.png)
 
 ## Simulation
 This CPU is simulated with bubble_sort in Xilinx vivado.
-![test-bench-wave](README.assets\bubble_sort-16408721718842.png)
+![test-bench-wave](README.assets/bubble_sort-16408721718842.png)
 
-![bubble_sort_wave](README.assets\bubble_sort.gif)
+![bubble_sort_wave](README.assets/bubble_sort.gif)
 
 
 
 ## Implementation
 Implementation on Basys3 FPGA, using Xilinx vivado.
-![implementation-graph](README.assets\Implementation-16408724367753.jpg)
+![implementation-graph](README.assets/Implementation-16408724367753.jpg)
 Scematic Overview
-![implementation-circuit-overview](README.assets\RTL-16408725174755.png)
+![implementation-circuit-overview](README.assets/RTL-16408725174755.png)
 
 
 ## References
