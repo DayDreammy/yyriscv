@@ -7,7 +7,7 @@ This project is a RISC-V CPU with 5-stage pipeline implemented in Verilog HDL, w
 * design: [**design**](doc/design.pdf) 
 * report : [**report**](doc/report.pdf) 
 * test excel:[**test.xlsx**](doc/test.xlsx) 
-* Chinese manual[**RISC-V-Reader-Chinese-v2p1.pdf**](doc/RISC-V-Reader-Chinese-v2p1.pdf)
+* Chinese manual：《RISC-V-Reader》中文版（第三方版权文档，本仓库未收录）
 
 ## Design
  Feature | RISC-V CPU
@@ -52,7 +52,7 @@ Scematic Overview
 
 *  https://github.com/Evensgn/RISC-V-CPU byZhou Fan
 *  Class ppt : [**L04&05.pdf**](doc/L04&05.pdf) （very useful!）
-*  [**RISC-V-Reader-Chinese-v2p1.pdf**](doc/RISC-V-Reader-Chinese-v2p1.pdf)
+*  《RISC-V-Reader》中文版（第三方版权文档，本仓库未收录）
 *  tinyriscv: 一个从零开始写的极简、非常易懂的RISC-V处理器核。 - Gitee.com
 *  𝑹𝑰𝑺𝑪-𝑽 基础 | suda-morris 个人博客
 *  《手把手教你设计CPU——RISC-V处理器篇》
